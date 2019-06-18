@@ -15,6 +15,6 @@ image_processing_class.ipynb
 
 ## Results
  - The loss curve:
-![Loss](loss.png)
+![Loss](https://github.com/QuangBK/ImgProcessing_Spring2019/blob/master/loss.png)
  - The accuracy curve:
-![Acc](acc.png)
+![Acc](https://github.com/QuangBK/ImgProcessing_Spring2019/blob/master/acc.png)
