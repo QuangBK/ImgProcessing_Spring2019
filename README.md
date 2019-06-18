@@ -13,6 +13,8 @@
 
 ## Results
  - The loss curve:
+
 ![Loss](https://github.com/QuangBK/ImgProcessing_Spring2019/blob/master/loss.png)
  - The accuracy curve:
+
 ![Acc](https://github.com/QuangBK/ImgProcessing_Spring2019/blob/master/acc.png)
