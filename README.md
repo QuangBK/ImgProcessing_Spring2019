@@ -4,9 +4,7 @@
 ## Preprocessing
  - Create a folder 'data' and download fundus data into this folder
  - Set `INPUT_DIR`, `OUTPUT_DIR_CROP`, `OUTPUT_DIR_COLOR`
- - Run this notebook ```
-image_processing_class.ipynb 
-```
+ - Run this notebook `image_processing_class.ipynb`
 
 ## Training
 
