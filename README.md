@@ -13,6 +13,7 @@
  matplotlib
  tqdm
  PIL
+ jupterlab or jupyter (for run .ipynb files)
  ```
  
 ## Prepare data
